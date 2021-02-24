@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Macro-Enter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Macro_Enter_jar</output-path>
+    <root id="archive" name="Macro-Enter.jar">
+      <element id="module-output" name="Macro-Enter" />
+    </root>
+  </artifact>
+</component>
